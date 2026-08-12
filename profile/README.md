@@ -1,26 +1,31 @@
-# TMCO Consulting
+# TMCO Consulting, LLC
 
-**Practical websites and technology help for small businesses and nonprofits.**
+**Websites and technology systems that earn their keep.**
 
-TMCO Consulting is a founder-led Colorado firm serving clients nationwide. We help lean teams build a credible online presence, measure what works, and make sound technology decisions without agency overhead or an open-ended engagement.
+TMCO Consulting, LLC is a founder-led Colorado consulting firm serving small businesses and nonprofits nationwide. We design credible websites, modernize practical operations, and help lean organizations make sound decisions across cloud, identity, devices, security, analytics, automation, and responsible AI.
 
-## What we help with
+## What we make useful
 
-- Small business and nonprofit websites
-- Website analytics, search foundations, and ongoing care
-- Modern workplace, cloud, and identity decisions
+- Distinctive small-business and nonprofit websites
+- Search foundations, analytics, and conversion-ready inquiry paths
+- Microsoft 365, Google Workspace, cloud, and identity
 - Apple and endpoint strategy
-- Security readiness
-- Responsible AI workflows
+- Security and technology modernization
+- Automation and responsible AI workflows
 
 ## How we work
 
-We favor clear scope, direct communication, secure and maintainable tools, and recommendations that match the client's budget and operating capacity.
+Direct access to the practitioner doing the work. Every engagement starts with the smallest useful scope, written deliverables, clear responsibilities, and a price agreed before work begins.
 
-## Work with TMCO
+## Start a conversation
 
-- [Visit TMCO Consulting](https://tmcoconsulting.com/)
+- [Visit TMCO Consulting, LLC](https://tmcoconsulting.com/)
 - [Explore services](https://tmcoconsulting.com/services/)
-- [Request a free fit check](https://tmcoconsulting.com/contact/)
+- [Send a project brief](https://tmcoconsulting.com/contact/)
 
-Colorado-based · Serving small businesses and nonprofits nationwide
+## Follow the company
+
+- [LinkedIn](https://www.linkedin.com/company/tmco-consulting)
+- [YouTube](https://www.youtube.com/@TMCOConsultingLLC)
+
+Colorado based · Nationwide service
