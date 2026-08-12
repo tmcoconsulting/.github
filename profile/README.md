@@ -25,6 +25,7 @@ Direct access to the practitioner doing the work. Every engagement starts with t
 
 ## Follow the company
 
+- [Google Business Profile](https://share.google/9HsPlI5X7UHFP6KMD)
 - [LinkedIn](https://www.linkedin.com/company/tmco-consulting)
 - [YouTube](https://www.youtube.com/@TMCOConsultingLLC)
 
