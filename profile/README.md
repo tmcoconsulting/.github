@@ -2,7 +2,7 @@
 
 **Websites and technology systems that earn their keep.**
 
-TMCO Consulting, LLC is a founder-led Colorado consulting firm serving small businesses and nonprofits nationwide. We design credible websites, modernize practical operations, and help lean organizations make sound decisions across cloud, identity, devices, security, analytics, automation, and responsible AI.
+TMCO Consulting, LLC is an independent Colorado consulting firm serving small businesses and nonprofits nationwide. We design credible websites, modernize practical operations, and help lean organizations make sound decisions across cloud, identity, devices, security, analytics, automation, and responsible AI.
 
 ## What we make useful
 
