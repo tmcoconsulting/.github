@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">TMCO Consulting, LLC</title>
+  <desc id="d">Websites and technology systems that earn their keep. Colorado based, nationwide service.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2A44"/>
+      <stop offset="1" stop-color="#0A1C2E"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <g transform="translate(150 0)">
+    <circle cx="975" cy="150" r="56" fill="#E0A44A" opacity="0.9"/>
+    <path d="M560 300 L700 175 L760 220 L870 110 L960 190 L1010 150 L1200 260 L1200 300 Z" fill="#1E3F5E"/>
+    <path d="M640 300 L780 215 L850 250 L960 175 L1060 240 L1120 205 L1200 245 L1200 300 Z" fill="#163450"/>
+    <path d="M870 110 L905 141 L888 138 L870 152 L852 138 L835 141 Z" fill="#FFFFFF" opacity="0.85"/>
+    </g>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="128" font-size="54" font-weight="700" fill="#F0F6FC">TMCO Consulting, LLC</text>
+    <text x="64" y="178" font-size="25" fill="#C9D6E3">Websites and technology systems that earn their keep.</text>
+    <text x="64" y="236" font-size="16" font-weight="600" letter-spacing="3" fill="#5CC8C8">COLORADO BASED · NATIONWIDE SERVICE</text>
+  </g>
+</svg>
